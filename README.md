@@ -1,2 +1,1 @@
-# Gastric-cancer
-A project
+# Cancer-Detection
